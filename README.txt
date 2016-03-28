@@ -1,8 +1,9 @@
 
 
 A javascript enabled spider to download all the pdf files accessible on the following link : 
-http://trai.gov.in/Content/PressReleases.aspx , 
-and then to make the spider generic so that it works for any site.
+http://trai.gov.in/Content/PressReleases.aspx 
+
+NOTE : I have made a spider generic so that it works for any site.
 
 
 
