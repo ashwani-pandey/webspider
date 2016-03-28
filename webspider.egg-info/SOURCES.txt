@@ -1,0 +1,12 @@
+README.txt
+setup.py
+webspider/__init__.py
+webspider/generic_scraper.py
+webspider/main.py
+webspider/trai_parser.py
+webspider.egg-info/PKG-INFO
+webspider.egg-info/SOURCES.txt
+webspider.egg-info/dependency_links.txt
+webspider.egg-info/entry_points.txt
+webspider.egg-info/requires.txt
+webspider.egg-info/top_level.txt

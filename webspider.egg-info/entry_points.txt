@@ -1,0 +1,3 @@
+[console_scripts]
+trai_pdfs = webspider.main:main
+

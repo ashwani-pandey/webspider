@@ -1,0 +1,9 @@
+downloading page : http://trai.gov.in/Content/PressDetails/52324_0.aspx
+storing pdf : http://trai.gov.in//WriteReadData/PressRealease/Document/PR_No.20of2016.pdf
+downloading page : http://trai.gov.in/Content/PressDetails/52325_0.aspx
+storing pdf : http://trai.gov.in//WriteReadData/PressRealease/Document/Press_Release_19.pdf
+downloading page : http://trai.gov.in/Content/PressDetails/52322_0.aspx
+storing pdf : http://trai.gov.in//WriteReadData/PressRealease/Document/Press_Release_18.pdf
+
+
+Number of pdfs downloaded : 3
